@@ -1,0 +1,76 @@
+.lv{
+    width: 500px;
+    height: 500px;
+    border: 5px solid black
+}
+.tes{
+    color: red;
+}
+.tes{
+    text-align: center;
+}
+.p{
+    text-align: center;
+}
+.lv{
+    margin-left: 500px;
+    border-radius: 20px;
+    background-image: url(../gambar/madan.jpg.jpg);
+    background-size: cover;
+}
+.cras1 {
+    background-color: pink;
+    width: 90px;
+    height: 35px;
+    margin-left: 50px;
+    margin-top: 20px;
+    padding-top: 18px;
+    padding-right: 10px;
+    
+}
+body {
+    background-color: pink;
+    /* background-image: url(../gambar/madan.jpg.jpg); */
+    /* background-repeat:repeat; */
+    /* background-size: cover; */
+    height: 2000px;
+}
+
+.lv3{
+    /* background-color: pink; */
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.piu{
+    width: 500px;
+    height: 500px;
+    margin-top: 30px;
+    border: 5px solid black;
+    border-radius: 20px;
+    margin-left: 490px;
+    background-image: url(../gambar/madan2.jpg.jpg);
+    background-size: cover;
+}
+
+.piu2{
+    width: 500px;
+    height: 500px;
+    margin-top: 30px;
+    border: 5px solid black;
+    border-radius: 20px;
+    margin-left: 490px;
+    background-image: url(../gambar/madan3.jpg.jpg);
+    background-size: cover;
+}
+.text{
+    text-align: center;
+    text-size-adjust: bold;
+    text-decoration: double;
+
+}
+.texto{
+    text-align: center;
+    text-size-adjust: bold;
+    text-decoration: underline;
+}

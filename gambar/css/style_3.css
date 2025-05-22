@@ -1,0 +1,21 @@
+.navigasi:link {
+    color: red;
+}
+.navigasi:visited{
+    color:blue;
+}
+
+.navigasi:hover {
+    background-color:yellow;
+}
+.navigas :active{
+    color: aqua;
+}
+ul li a:link {
+    color: red;
+}
+ul li a:hover {
+    background-color:black;
+    color: white
+}
+.

@@ -1,0 +1,36 @@
+* {
+        padding: 0px;
+        margin: 0px;
+
+
+}
+
+.navigasi {
+    width: 50%;
+    height: 50px;
+    background-color: aqua;
+    
+
+}
+
+
+hr {
+    border-width: 5px;
+}
+.sistem{
+    width: 10px;
+        height: 25px;
+        background-color: black;
+
+}
+.sistem {
+    text-align: center;
+}
+.sistem{
+    margin-bottom: 20px;
+        padding-bottom: 50px;
+        padding-right: 50px;
+}
+.sistem{
+    text-transform: lowercase;
+}

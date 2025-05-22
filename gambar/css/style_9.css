@@ -1,0 +1,23 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+p{
+    background-color: aqua;
+    width: 800px;
+    height: 200px;
+    padding-left: 0px;
+    padding-top: 0px;
+    text-align: center;
+}
+    .navigasi{
+        margin-left: 0px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    .bungkus{
+        background-color: blueviolet;
+        width: 250px;
+        height: 800px;
+        margin: ;
+    }
